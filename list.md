@@ -6,5 +6,5 @@
 ### 1. Private LLM
 - [ ] build private gpt llm
 
-### 1. Steam Server Migration
+### 2. Steam Server Migration
 - [ ] migrate steamcmd server to proxmox
