@@ -11,4 +11,5 @@ This is the official website for DataCraft Works, showcasing innovation and crea
 
 - [Custom Domain Setup Guide](custom-domain-setup.md)
 - [Traefik Configuration Plan Guide](traefik_configuration_plan.md)
+- [Cloudflare Hosting and Reverse Proxy Setup Checklist](cloudflare-hosting-and-reverse-proxy-setup-checklist.md)
 - [Things To Do](list.md)
