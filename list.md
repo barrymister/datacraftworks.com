@@ -25,4 +25,10 @@ Work on.
 Restore service to FTM 200.  
   - [ ] Antenna connected to jpole, want to have on vertical omni.
   - [ ] Cabling, using rg-58x, is it worth moving to low interference cable?
-  
+### 4. Welding
+- [ ] Thought mapping.
+### 5. Creative Writing
+- [ ] Thought mapping.
+Publishing.
+  - [ ] Draft to Digital https://www.draft2digital.com/
+  - [ ] Audiobook.
