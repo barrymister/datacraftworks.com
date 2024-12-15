@@ -32,3 +32,31 @@
 
 ### MIG Wleding
 - TBD
+
+## Arts Progress
+
+### Writing 
+- SCI-FI Series #001
+
+- Fantasy Series #001
+
+- Web Magazine Progress
+
+### Visual Arts
+- Art Pad Skill Up
+
+### Audio
+- Music Skill Up
+
+- Voice Over Skill Up
+
+- Audio Book Skill Up
+
+#### Instruments
+- Guitar
+
+- Piano
+
+- Drum Machine
+
+- DAW
