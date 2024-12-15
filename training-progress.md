@@ -14,6 +14,13 @@
 ### Information Security
 - CompTIA Security+
 
+### DevOps
+- Markdown
+- HTML&CSS
+- PowerShell
+- Python
+- Go
+
 ## HAM Radio Licence and Skills Training Progress
 
 ### General License
