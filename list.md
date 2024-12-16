@@ -34,3 +34,12 @@ Restore service to FTM 200.
 Publishing.
   - [ ] Draft to Digital https://www.draft2digital.com/
   - [ ] Audiobook.
+     
+### 6. Revenue Streams
+- [ ] Freelancing.
+Categories.
+  - [ ] Fiver.
+  - [ ] Upwork.
+  - [ ] Voice Over.
+  - [ ] Development. (Web, Hosting, Systems, other Services)
+  - [ ] Consulting.
