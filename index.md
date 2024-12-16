@@ -14,4 +14,5 @@ This is the official website for DataCraft Works, showcasing innovation and crea
 - [Cloudflare Hosting and Reverse Proxy Setup Checklist](cloudflare-hosting-and-reverse-proxy-setup-checklist.md)
 - [Continuing Education and Skill Stacking](training-progress.md)
 - [Web Development](mind-mapping-summary.md)
+- [Cloud IDE Comparison Chart](cloud-ide-comparison-chart.md)
 - [Things To Do](list.md)
