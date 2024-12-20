@@ -13,6 +13,7 @@ This is the official website for DataCraft Works, showcasing innovation and crea
 - [Continuing Education and Skill Stacking](training-progress.md)
 - [Web Development](mind-mapping-summary.md)
 - [Cloud IDE Comparison Chart](cloud-ide-comparison-chart.md)
+- [System Design Plan](system-design-plan.md)
 - [Things To Do](list.md)
 
 
