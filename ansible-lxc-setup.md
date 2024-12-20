@@ -170,4 +170,6 @@ This guide provides detailed instructions to set up an **Ansible LXC container**
 
 ---
 
-Your **Ansible LXC container** is now set up and ready to automate your environment. Let me know if you need additional help!
+Your **Ansible LXC container** is now set up and ready to automate your environment.
+
+-[tmp](hosts-ini-for-ansible)
