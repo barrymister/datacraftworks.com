@@ -1,8 +1,8 @@
 
-# **Updated System Design Plan**
+# **System Design Plan**
 
 ## **Overview**
-This system design replaces Ansible with **Portainer** for container management. Portainer provides a centralized, web-based UI to manage Docker containers across your infrastructure, significantly simplifying deployment and monitoring.
+Portainer provides a centralized, web-based UI to manage Docker containers across your infrastructure, significantly simplifying deployment and monitoring.
 
 ---
 
