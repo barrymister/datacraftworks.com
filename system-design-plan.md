@@ -96,6 +96,7 @@
 
 1. **Provision Ansible LXC Container:**
    - Deploy Ansible first to automate subsequent steps.
+   - [Ansible LXC Setup](ansible-lxc-setup.md)
 
 2. **Provision Docker LXC Container:**
    - Configure Docker to host Prometheus, Grafana, and the Proxmox exporter.
