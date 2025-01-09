@@ -15,6 +15,7 @@ This is the official website for DataCraft Works, showcasing innovation and crea
 - [Cloud IDE Comparison Chart](cloud-ide-comparison-chart.md)
 - [System Design Plan](system-design-plan-portainer.md)
 - [Things To Do](list.md)
+- [AI-900 Study Tracker](AI-900_Study_Tracker.md)
 
 
 <!-- - [Traefik Configuration Plan Guide](traefik_configuration_plan.md) 
