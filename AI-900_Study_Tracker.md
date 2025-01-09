@@ -3,14 +3,14 @@
 
 ## Domain 1: AI Workloads and Considerations
 
-- [ ] Understand common AI workloads: Computer Vision, NLP, Conversational AI
-- Description:  
+### [ ] Understand common AI workloads: Computer Vision, NLP, Conversational AI
+#### Description:  
   AI workloads refer to specific types of tasks or applications where AI can be applied.  
   - Computer Vision involves analyzing and interpreting visual data (images, videos) to identify objects, faces, or patterns.  
   - Natural Language Processing (NLP) focuses on understanding, generating, and analyzing human language (text or speech).  
   - Conversational AI builds systems that can interact with users in natural language, such as chatbots or virtual assistants.
-- [ ] Learn about Image Classification
-- Description:  
+### [ ] Learn about Image Classification
+#### Description:  
   Image classification is a common computer vision task where an AI model assigns a label to an image based on its content. For example, identifying whether an image contains a cat or a dog. Pre-built models in Azure’s Computer Vision API can handle standard image classification, while Azure Custom Vision allows you to train models on custom datasets.
 - [ ] Learn about Object Detection
 - Description:  
