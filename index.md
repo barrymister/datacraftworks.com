@@ -16,6 +16,7 @@ This is the official website for DataCraft Works, showcasing innovation and crea
 - [System Design Plan](system-design-plan-portainer.md)
 - [Things To Do](list.md)
 - [AI-900 Study Tracker](AI-900_Study_Tracker.md)
+- [MERN Stack Learning Checklist](MERN_Stack_Learning_Checklist.md)
 
 
 <!-- - [Traefik Configuration Plan Guide](traefik_configuration_plan.md) 
