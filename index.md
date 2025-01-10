@@ -17,7 +17,7 @@ This is the official website for DataCraft Works, showcasing innovation and crea
 - [Things To Do](list.md)
 - [AI-900 Study Tracker](AI-900_Study_Tracker.md)
 - [MERN Stack Learning Checklist](MERN_Stack_Learning_Checklist.md)
-
+- [Prep for PCEP Python Certified Entry-Level Programmer](Prep_for_PCEP.md)
 
 <!-- - [Traefik Configuration Plan Guide](traefik_configuration_plan.md) 
 - [Cloudflare Hosting and Reverse Proxy Setup Checklist](cloudflare-hosting-and-reverse-proxy-setup-checklist.md) -->
