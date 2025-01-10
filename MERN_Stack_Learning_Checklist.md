@@ -69,4 +69,3 @@ This stack enables developers to use a single language (JavaScript) for both the
 - [Express.js Documentation](https://expressjs.com/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
-- [The Net Ninja MERN Stack Tutorial (YouTube)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8OhpOZxNdhXggFz2lOuCT)
