@@ -3,7 +3,8 @@
 
 In Python, **code blocks** are defined by **indentation** rather than by braces `{}` or keywords (like `begin` and `end`). This indentation rule is essential for Python syntax and structure.
 
-## Code Block Types
+
+## Python Code Block Types
 
 | **Code Block**          | **Definition**                                                                                              | **Syntax Example**                                          | **Explanation**                                                                                                   |
 |-------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -33,6 +34,7 @@ In Python, **code blocks** are defined by **indentation** rather than by braces 
 | **Docstring Block**      | A block of code that provides documentation for a module, class, or function.                             | `def greet():`                                              | Docstrings are enclosed in triple quotes `"""`.                                                                |
 |                         |                                                                                                            | `    """This function greets the user."""`            |                                                                                                                   |
 |                         |                                                                                                            | `    print("Hello")`                                        |                                                                                                                   |
+
 
 ## Indentation Rules
 
