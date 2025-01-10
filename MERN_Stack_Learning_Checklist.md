@@ -65,6 +65,7 @@ This stack enables developers to use a single language (JavaScript) for both the
 
 ## Additional Resources
 
+- [The Odin Project Full-Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 - [MongoDB Documentation](https://www.mongodb.com/docs/manual/)
 - [Express.js Documentation](https://expressjs.com/)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
