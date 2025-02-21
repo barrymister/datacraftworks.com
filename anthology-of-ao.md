@@ -71,3 +71,4 @@ This series, “Anthology of AO (Alpha and Omega),” is a collection of standal
 - **Narration Style**: 90–95% narration, 5–10% minimal dialogue, occasional inner monologue for the protagonist.
 - **Series Glue**: Mystery of rare abilities, interconnectedness, and the alpha-omega cycle of existence.
 ---
+
