@@ -21,7 +21,7 @@ This is the official website for DataCraft Works, showcasing innovation and crea
 - [Creative Assets Revenue Plan](creative-assets-revenue-plan.md)
 - [Outline for Sci-Fi Short Story](outline-for-sci-fi-short-story.md)
 - [Sci-Fi Series Planning: Episodic Approach](sci-fi-series-planning-episodic-approach.md)
-- [Anthology of AO](anthology-of-ao.md)
+- [Anthology of AO](ant-of-ao.md)
 
 <!-- - [Traefik Configuration Plan Guide](traefik_configuration_plan.md) 
 - [Cloudflare Hosting and Reverse Proxy Setup Checklist](cloudflare-hosting-and-reverse-proxy-setup-checklist.md) -->
