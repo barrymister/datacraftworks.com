@@ -1,3 +1,23 @@
+:root {
+    /* Color Palette */
+    --dark-space-blue: #001219;
+    --midnight-blue: #005F73;
+    --ocean-teal: #0A9396;
+    --aqua-foam: #94D2BD;
+    --champagne: #E9D8A6;
+    --bright-orange: #EE9B00;
+    --burnt-orange: #CA6702;
+    --rust: #BB3E03;
+    --fire-brick: #AE2012;
+    --ruby-red: #9B2226;
+
+    /* Standard Colors */
+    --white: #FFFFFF;
+    --light-gray: #f8f9fa; /* Lighter background */
+    --medium-gray: #dee2e6;
+    --dark-gray: #495057;
+}
+
 /* Basic Reset */
 * {
     margin: 0;
@@ -6,23 +26,38 @@
 }
 
 body {
-    font-family: sans-serif;
-    line-height: 1.6;
-    padding: 20px;
-    background-color: #f4f4f4;
-    color: #333;
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    line-height: 1.7;
+    background-color: var(--light-gray);
+    color: var(--dark-space-blue);
+    padding-top: 80px; /* Add padding to prevent content from hiding behind fixed header */
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 header {
-    background: #333;
-    color: #fff;
+    background: var(--midnight-blue);
+    color: var(--white);
     padding: 1rem 0;
     text-align: center;
-    margin-bottom: 20px;
+    position: fixed; /* Make header fixed */
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 header h1 {
-    margin-bottom: 10px;
+    font-family: 'Orbitron', sans-serif;
+    margin-bottom: 0.5rem; /* Reduced margin */
+    font-size: 2.2rem;
+    font-weight: 700; /* Bolder Orbitron */
 }
 
 header nav ul {
@@ -31,23 +66,109 @@ header nav ul {
 
 header nav ul li {
     display: inline;
-    margin: 0 10px;
+    margin: 0 15px; /* Increased spacing */
 }
 
 header nav ul li a {
-    color: #fff;
+    color: var(--aqua-foam);
     text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: bold;
+    padding: 5px 10px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+header nav ul li a:hover,
+header nav ul li a.active { /* Style for active page link if needed */
+    color: var(--bright-orange);
+    /* background-color: rgba(255, 255, 255, 0.1); */
+    /* border-radius: 4px; */
 }
 
 main {
-    background: #fff;
+    background: var(--white);
+    padding: 30px;
+    border-radius: 8px;
+    margin-top: 40px; /* Adjust if header height changes */
+    margin-bottom: 40px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.07);
+}
+
+section {
+    margin-bottom: 40px; /* Increased spacing between sections */
     padding: 20px;
-    border-radius: 5px;
+    background-color: var(--white); /* Ensure sections have white background */
+    border-radius: 6px;
+    /* border: 1px solid var(--medium-gray); */ /* Optional subtle border */
+}
+
+section h2, section h3 {
+    font-family: 'Orbitron', sans-serif;
+    color: var(--ocean-teal);
     margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid var(--aqua-foam);
+    font-weight: 600;
+}
+
+section h3 {
+    font-size: 1.8rem;
+}
+
+main h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 30px;
+    color: var(--midnight-blue);
+}
+
+a {
+    color: var(--ocean-teal);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: var(--bright-orange);
+    text-decoration: underline;
+}
+
+ul, ol {
+    list-style-position: inside;
+    padding-left: 20px; /* Indent lists slightly */
+    margin-bottom: 15px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Card-like styling for project items */
+.project-item {
+    background-color: var(--light-gray);
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 8px;
+    border: 1px solid var(--medium-gray);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    transition: box-shadow 0.3s ease;
+}
+
+.project-item:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project-item img {
+    display: block;
+    margin-bottom: 15px;
+    border-radius: 4px;
 }
 
 footer {
     text-align: center;
-    margin-top: 20px;
-    color: #666;
+    padding: 20px;
+    margin-top: 30px;
+    color: var(--dark-gray);
+    background-color: var(--champagne);
+    border-top: 1px solid var(--medium-gray);
 }
